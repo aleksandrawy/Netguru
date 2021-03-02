@@ -1,12 +1,12 @@
 ### Requirements:
 * Java 8
 * Maven >= 3.6.0
-* Chrome/Firefox/Internet Explorer browser - lastest version
+* Chrome/Firefox/Internet Explorer browser (the best is to have latest version)
 * Allure: https://docs.qameta.io/allure/#_installing_a_commandline
 
 ### How to run:
 1) Go to **src\main\resources** directory and edit **run.properties** file if needed:
-   * _browser_ - browser name, can be chrome/firefox/edge, if none then chrome is set as default
+   * _browser_ - browser name, can be chrome/firefox/ie, if none then chrome is set as default
    * _app-url_ - app url
    * _test-user_ - email of test user
    * _test-password_ - password of test user
