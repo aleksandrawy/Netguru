@@ -1,7 +1,7 @@
 ### Requirements:
 * Java 8
 * Maven >= 3.6.0
-* Chrome/Firefox/Edge browser - lastest version
+* Chrome/Firefox/Internet Explorer browser - lastest version
 
 ### How to run:
 1) Go to **src\main\resources** directory and edit **run.properties** file if needed:
