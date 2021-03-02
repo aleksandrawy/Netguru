@@ -2,6 +2,7 @@
 * Java 8
 * Maven >= 3.6.0
 * Chrome/Firefox/Internet Explorer browser - lastest version
+* Allure: https://docs.qameta.io/allure/#_installing_a_commandline
 
 ### How to run:
 1) Go to **src\main\resources** directory and edit **run.properties** file if needed:
